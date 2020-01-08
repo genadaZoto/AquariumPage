@@ -1,0 +1,84 @@
+@font-face {
+  font-family: "Roboto";
+  src: url(5673da52c98bb6cb33ada5aaf649703e.ttf) format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+* {
+  box-sizing: border-box; }
+
+.title {
+  margin: 0;
+  height: 100vh;
+  color: orange;
+  text-align: center;
+  padding-top: 10%;
+  font-size: 30px;
+  font-family: 'Ultra', serif; }
+
+#presentation {
+  position: absolute;
+  text-align: center;
+  background-color: aliceblue;
+  width: 50%;
+  height: auto;
+  padding: 1%;
+  margin-top: 2%;
+  margin-left: 25%;
+  border-radius: .6em; }
+
+#dorySpeech {
+  position: absolute;
+  text-align: center;
+  background-color: aliceblue;
+  width: auto;
+  height: auto;
+  padding: 1%;
+  margin-top: 10%;
+  margin-left: 40%;
+  border-radius: .6em; }
+
+#marinSpeech {
+  position: absolute;
+  text-align: center;
+  background-color: aliceblue;
+  width: auto;
+  height: auto;
+  padding: 1%;
+  margin-top: 14%;
+  margin-left: 25%;
+  border-radius: .6em; }
+
+#dorySpeech2 {
+  position: absolute;
+  text-align: center;
+  background-color: aliceblue;
+  width: auto;
+  height: auto;
+  padding: 1%;
+  margin-top: 17%;
+  margin-left: 50%;
+  border-radius: .6em; }
+
+#theEnd {
+  position: absolute;
+  text-align: center;
+  margin-top: 18%;
+  margin-left: 40%;
+  position: absolute;
+  color: orange;
+  font-size: 40px;
+  font-family: 'Ultra', serif; }
+
+#theEnd2 {
+  position: absolute;
+  text-align: center;
+  margin-top: 22%;
+  margin-left: 40%;
+  position: absolute;
+  color: orange;
+  font-size: 30px;
+  font-family: 'Ultra', serif; }
+
+
+/*# sourceMappingURL=styles.css.map*/
