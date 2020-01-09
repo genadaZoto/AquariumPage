@@ -10709,7 +10709,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var jquery__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(jquery__WEBPACK_IMPORTED_MODULE_0__);
 
 jquery__WEBPACK_IMPORTED_MODULE_0___default()('body').css({
-  'background-image': 'url("/assets/images/aquarium.jpg")',
+  'background-image': 'url("/assets/images/tortue.png")',
   'background-width': 'width',
   'background-height': 'height',
   'background-repeat': 'no-repeat'
